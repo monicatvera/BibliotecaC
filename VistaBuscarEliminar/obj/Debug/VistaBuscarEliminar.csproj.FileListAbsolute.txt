@@ -1,0 +1,10 @@
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaBuscarEliminar\obj\Debug\VistaBuscarEliminar.csprojAssemblyReference.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaBuscarEliminar\obj\Debug\Biblioteca.VistaBuscarEliminar.Properties.Resources.resources
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaBuscarEliminar\obj\Debug\VistaBuscarEliminar.csproj.GenerateResource.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaBuscarEliminar\obj\Debug\VistaBuscarEliminar.csproj.CoreCompileInputs.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaBuscarEliminar\bin\Debug\VistaBuscarEliminar.exe.config
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaBuscarEliminar\bin\Debug\VistaBuscarEliminar.exe
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaBuscarEliminar\bin\Debug\VistaBuscarEliminar.pdb
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaBuscarEliminar\obj\Debug\VistaBuscarEliminar.exe
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaBuscarEliminar\obj\Debug\VistaBuscarEliminar.pdb
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaBuscarEliminar\obj\Debug\Biblioteca.VistaBuscarEliminar.Buscar.resources

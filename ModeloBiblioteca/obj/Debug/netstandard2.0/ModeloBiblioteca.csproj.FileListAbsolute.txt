@@ -1,0 +1,17 @@
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\bin\Debug\netstandard2.0\ModeloBiblioteca.deps.json
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\bin\Debug\netstandard2.0\ModeloBiblioteca.dll
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\bin\Debug\netstandard2.0\ModeloBiblioteca.pdb
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\obj\Debug\netstandard2.0\ModeloBiblioteca.csprojAssemblyReference.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\obj\Debug\netstandard2.0\ModeloBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\obj\Debug\netstandard2.0\ModeloBiblioteca.AssemblyInfo.cs
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\obj\Debug\netstandard2.0\ModeloBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\obj\Debug\netstandard2.0\ModeloBiblioteca.csproj.CopyComplete
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\obj\Debug\netstandard2.0\ModeloBiblioteca.dll
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\obj\Debug\netstandard2.0\ModeloBiblioteca.pdb
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\ModeloBiblioteca\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll

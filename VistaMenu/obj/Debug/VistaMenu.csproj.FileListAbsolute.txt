@@ -1,0 +1,10 @@
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaMenu\obj\Debug\VistaMenu.csprojAssemblyReference.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaMenu\obj\Debug\Biblioteca.VistaMenu.MenuPrincipal.resources
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaMenu\obj\Debug\Biblioteca.VistaMenu.Properties.Resources.resources
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaMenu\obj\Debug\VistaMenu.csproj.GenerateResource.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaMenu\obj\Debug\VistaMenu.csproj.CoreCompileInputs.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaMenu\bin\Debug\VistaMenu.exe.config
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaMenu\bin\Debug\VistaMenu.exe
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaMenu\bin\Debug\VistaMenu.pdb
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaMenu\obj\Debug\VistaMenu.exe
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaMenu\obj\Debug\VistaMenu.pdb

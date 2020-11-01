@@ -1,0 +1,10 @@
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaListaAlumnos\obj\Debug\VistaListaAlumnos.csprojAssemblyReference.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaListaAlumnos\obj\Debug\Biblioteca.VistaListaAlumnos.Lista.resources
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaListaAlumnos\obj\Debug\Biblioteca.VistaListaAlumnos.Properties.Resources.resources
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaListaAlumnos\obj\Debug\VistaListaAlumnos.csproj.GenerateResource.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaListaAlumnos\obj\Debug\VistaListaAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaListaAlumnos\bin\Debug\VistaListaAlumnos.exe.config
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaListaAlumnos\bin\Debug\VistaListaAlumnos.exe
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaListaAlumnos\bin\Debug\VistaListaAlumnos.pdb
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaListaAlumnos\obj\Debug\VistaListaAlumnos.exe
+C:\Users\Mónica\Desktop\BibliotecaC\BibliotecaC\VistaListaAlumnos\obj\Debug\VistaListaAlumnos.pdb
